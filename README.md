@@ -8,9 +8,9 @@ Read my code on  <a href="https://github.com/TomGroombridge"> Github. </a>
 Code examples
 -------------
 
-| <a href="https://github.com/TomGroombridge/book_project">Dog Eared Pages</a> | <a href="https://github.com/TomGroombridge/Sudoku-Web-Version">Sudoku</a> | Airport |
+| <a href="https://github.com/TomGroombridge/book_project">Dog Eared Pages</a> | <a href="https://github.com/TomGroombridge/Sudoku-Web-Version">Sudoku</a> | <a href="https://github.com/TomGroombridge/christagram"> Christagram </a> |
 |:--------------- |:-------- |:--------- |
-|Rails App created in 10 days with <a href="https://github.com/larahy">@larahy</a>, <a href="https://github.com/chrishill627">@chrishill627</a> and <a href="https://github.com/traviago">@traviagio</a> which allows you to choose your top 3 books and tweet them out. <a href="http://dogearedpages.me"> click here</a>  to view the website | Sinatra web app to play Sudoku puzzles with a recursive algorithm to generate and solve puzzles. | 100% test-driven Ruby model of airports and planes written using RSpec with an emphasis on code readability. |
+|Rails App created in 10 days with <a href="https://github.com/larahy">@larahy</a>, <a href="https://github.com/chrishill627">@chrishill627</a> and <a href="https://github.com/traviago">@traviagio</a> which allows you to choose your top 3 books and tweet them out. <a href="http://dogearedpages.me"> click here</a>  to view the website | Sinatra web app to play Sudoku puzzles with a recursive algorithm to generate and solve puzzles. | Ruby on Rails Application that is a home made version of Instagram, where a user can add, delete, comment and like posts of other users. <a href="http://christagram.herokuapp.com/welcome/index"> click here</a> to view the online version |
 
 ----------
 
@@ -55,4 +55,4 @@ Code examples
 Experience
 ----------
 
-In the Summer of 2012 I left school, I didn't know what I wanted to do, I ended up getting the opportunity to go and play semi-profesional hockey in Melbourne Australia for a year. Naturally I took the opportunity. When I was out there I found out about Web Development. I found <a href="http://yorkbutterfactory.com/"> York Butter Factory </a> in Melbourne and decided to hang around there and try and pick up any little jobs available. Naturally I had very little experiance so found it hard to get much interest. I decided to cut my trip short and fly back to London to enrol in <a href"http://www.makersacademy.com/">Makers Academy</a> where i developed the skills to start my career as a developer.
+In the Summer of 2012 I left school, I didn't know what I wanted to do, I ended up getting the opportunity to go and play semi-profesional hockey in Melbourne Australia for a year. Naturally I took the opportunity. When I was out there I found out about Web Development. I found <a href="http://yorkbutterfactory.com/"> York Butter Factory </a> in Melbourne and decided to hang around there and try and pick up any little jobs available. Naturally I had very little experiance so found it hard to get much interest. I decided to cut my trip short and fly back to London to enrol in <a href"http://www.makersacademy.com/">Makers Academy</a> where I developed the skills to start my career as a developer.
