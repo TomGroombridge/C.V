@@ -24,9 +24,8 @@ Code examples
   - Object­ oriented principles and design
   - PostgreSQL
   - Sinatra and DataMapper
-  - Unit testing with RSpec and Jasmine
+  - Unit testing with RSpec
   - Integration testing with Capybara
-  - Behaviour driven development with Cucumber
   - FactoryGirl fixtures and Shoulda matchers
   - Version control with git and GitHub
   - JavaScript, jQuery and CoffeeScript
