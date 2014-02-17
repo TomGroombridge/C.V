@@ -1,5 +1,5 @@
 <h1> Tom Groombridge </h1>
-=========
+----------
 
 I am a Junior Developer in London
 
@@ -10,18 +10,18 @@ Code examples
 
 | <a href="https://github.com/TomGroombridge/book_project">Dog Eared Pages</a> | <a href="https://github.com/TomGroombridge/Sudoku-Web-Version">Sudoku</a> | Airport |
 |:--------------- |:-------- |:--------- |
-|Rails App created in 10 days with @larahy, @chrishill627 and @traviagio which allows you to choose your top 3 books and tweet them out. <a href="http://dogearedpages.me"> click here</a>  to view the website | Sinatra web app to play Sudoku puzzles with a recursive algorithm to generate and solve puzzles. | 100% test-driven Ruby model of airports and planes written using RSpec with an emphasis on code readability. |
+|Rails App created in 10 days with <a href="https://github.com/larahy">@larahy</a>, <a href="https://github.com/chrishill627">@chrishill627</a> and <a href="https://github.com/traviago">@traviagio</a> which allows you to choose your top 3 books and tweet them out. <a href="http://dogearedpages.me"> click here</a>  to view the website | Sinatra web app to play Sudoku puzzles with a recursive algorithm to generate and solve puzzles. | 100% test-driven Ruby model of airports and planes written using RSpec with an emphasis on code readability. |
 
 ----------
 
 ### Skills
 
-  - Agile values, principles and practice
-  - Object­ oriented principles and design
   - Test­ driven development
   - Pair programming
-  - Ruby 2.0
+  - Ruby ~
   - Rails 4
+  - Agile values, principles and practice
+  - Object­ oriented principles and design
   - PostgreSQL
   - Sinatra and DataMapper
   - Unit testing with RSpec and Jasmine
@@ -30,11 +30,23 @@ Code examples
   - FactoryGirl fixtures and Shoulda matchers
   - Version control with git and GitHub
   - JavaScript, jQuery and CoffeeScript
-  - HTML5, ERB and Haml
+  - HTML5
+  - ERB
   - CSS3, Sass and Twitter Bootstrap 3
   - WebSockets
   - User authentication and authorisation with bcrypt and Devise
-  - Integration of APIs including Twilio, Stripe and Paperclip
+  - Integration of APIs including Twilio, Stripe and Amazon
   - Mailgun API with RestClient
   - GitHub Flavoured Markdown
   - Deployment to Heroku
+
+
+
+  ### Makers Academy
+**Web Development Bootcamp: November-February 2013**
+
+  - Highly selective 12 week full-time course
+  - Ruby, object oriented programming and software design
+  - Full stack web development
+  - Pair programming and teamwork
+  - Final project: <a href="http://dogearedpages.me"> Dog Eared Pages </a> - a Rails 4 app which allows you to choose your top 3 books and tweet them out to your followes. Created in 10 days with <a href="https://github.com/larahy">@larahy</a>, <a href="https://github.com/chrishill627"> and <a href="https://github.com/traviago">@traviagio</a>.
