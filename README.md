@@ -49,4 +49,10 @@ Code examples
   - Ruby, object oriented programming and software design
   - Full stack web development
   - Pair programming and teamwork
-  - Final project: <a href="http://dogearedpages.me"> Dog Eared Pages </a> - a Rails 4 app which allows you to choose your top 3 books and tweet them out to your followes. Created in 10 days with <a href="https://github.com/larahy">@larahy</a>, <a href="https://github.com/chrishill627"> and <a href="https://github.com/traviago">@traviagio</a>.
+  - Final project: <a href="http://dogearedpages.me"> Dog Eared Pages </a> - a Rails 4 app which allows you to choose your top 3 books and tweet them out to your followes. Created in 10 days with <a href="https://github.com/larahy">@larahy</a>, <a href="https://github.com/chrishill627">@chrishill627</a> and <a href="https://github.com/traviago">@traviagio</a>.
+
+
+Experience
+----------
+
+In the Summer of 2012 I left school, I didn't know what I wanted to do, I ended up getting the opportunity to go and play semi-profesional hockey in Melbourne Australia for a year. Naturally I took the opportunity. When I was out there I found out about Web Development. I found <a href="http://yorkbutterfactory.com/"> York Butter Factory </a> in Melbourne and decided to hang around there and try and pick up any little jobs available. Naturally I had very little experiance so found it hard to get much interest. I decided to cut my trip short and fly back to London to enrol in <a href"http://www.makersacademy.com/">Makers Academy</a> where i developed the skills to start my career as a developer.
