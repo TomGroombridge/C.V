@@ -8,9 +8,9 @@ Read my code on  <a href="https://github.com/TomGroombridge"> Github. </a>
 Code examples
 -------------
 
-| <a href="https://github.com/TomGroombridge/book_project">Dog Eared Pages</a> | <a href="https://github.com/TomGroombridge/Sudoku-Web-Version">Sudoku</a> | <a href="https://github.com/TomGroombridge/christagram"> Christagram </a> |
-|:--------------- |:-------- |:--------- |
-|Rails App created in 10 days with <a href="https://github.com/larahy">@larahy</a>, <a href="https://github.com/chrishill627">@chrishill627</a> and <a href="https://github.com/traviago">@traviagio</a> which allows you to choose your top 3 books and tweet them out. <a href="http://dogearedpages.me"> click here</a>  to view the website | Sinatra web app to play Sudoku puzzles with a recursive algorithm to generate and solve puzzles. | Ruby on Rails Application that is a home made version of Instagram, where a user can add, delete, comment and like posts of other users. <a href="http://christagram.herokuapp.com/welcome/index"> click here</a> to view the online version, built with <a href="https://github.com/chrishill627">@chrishill627</a> |
+| <a href="https://github.com/TomGroombridge/book_project">Dog Eared Pages</a> | <a href="https://github.com/TomGroombridge/Sudoku-Web-Version">Sudoku</a> | <a href="https://github.com/TomGroombridge/christagram"> Christagram </a> | <a href="https://github.com/TomGroombridge/planes_at_a_airport">Airport</a> |
+|:--------------- |:-------- |:--------- | :--------- |
+|Rails App created in 10 days with <a href="https://github.com/larahy">@larahy</a>, <a href="https://github.com/chrishill627">@chrishill627</a> and <a href="https://github.com/traviago">@traviagio</a> which allows you to choose your top 3 books and tweet them out. <a href="http://dogearedpages.me"> click here</a>  to view the website | Sinatra web app to play Sudoku puzzles with a recursive algorithm to generate and solve puzzles. | Ruby on Rails Application that is a home made version of Instagram, where a user can add, delete, comment and like posts of other users. <a href="http://christagram.herokuapp.com/welcome/index"> click here</a> to view the online version, built with <a href="https://github.com/chrishill627">@chrishill627</a> | 100% TDD, object oriented model of airports and planes in Ruby, planes would land and take off depending on certain factors.|
 
 ----------
 
