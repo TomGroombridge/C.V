@@ -62,5 +62,5 @@ Meet me
 I'm on <a href="http://www.linkedin.com/profile/view?id=304908361&trk=nav_responsive_tab_profile_pic">LinkedIn</a>,  <a href="https://twitter.com/TomGroombridge">Twitter </a> and  <a href="https://github.com/TomGroombridge">Github </a>.
 
 07540 726 507,
-[groombridegtom@gmail.com]
+groombridegtom@gmail.com
 
