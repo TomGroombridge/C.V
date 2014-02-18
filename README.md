@@ -26,7 +26,7 @@ Code examples
   - Sinatra and DataMapper
   - Unit testing with RSpec
   - Integration testing with Capybara
-  - FactoryGirl fixtures and Shoulda matchers
+  - FactoryGirl fixtures 
   - Version control with git and GitHub
   - JavaScript, jQuery and CoffeeScript
   - HTML5
