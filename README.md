@@ -54,7 +54,50 @@ Code examples
 Experience
 ----------
 
-In the Summer of 2012 I left school, I didn't know what I wanted to do, I ended up getting the opportunity to go and play semi-profesional hockey in Melbourne Australia for a year. Naturally I took the opportunity. When I was out there I found out about Web Development. I found <a href="http://yorkbutterfactory.com/"> York Butter Factory </a> in Melbourne and decided to hang around there and try and pick up any little jobs available. Naturally I had very little experiance so found it hard to get much interest. I decided to cut my trip short and fly back to London to enrol in <a href"http://www.makersacademy.com/">Makers Academy</a> where I developed the skills to start my career as a developer.
+Since ‘graduating’ from Makers Academy in February 2014 I have sought job opportunities to utilise and improve my coding skills. This is outlined below:
+
+
+Founder & Developer, courseiam - LONDON: December - to date
+  <a href="www.courseiam.com">courseiam.com</a>
+Courseiam is an online administration, booking and marketing platform for people who run face to face courses. For example dress making, upholstery and cycling proficiency.
+Decided to launch the programme having worked for a company operating a similar product in Melbourne, Australia.
+
+Responsibilities:
+  1. Forming the company.
+  2. Designing the Platform and UX
+  3. Coding the site from scratch
+      The application was built in rails with html css and coffeescript.
+  4.  Meeting with course providers to gain as much understanding to the road blocks in day to day running of their businesses.
+  5. Pitching the product to potential clients.
+
+
+full stack developer, playon - london/dublin: june- december 2014
+<a href="www.playon.co">playon.co</a>
+Playon is a online daily fantasy sports business which currently combines fantasy football and cricket with online gambling.
+Worked as part of a team to help develop and expand the functionality and design of the site working mainly in frontend with html css and javascript as well as fixing bugs in ruby.
+
+Responsibilities:
+ Built the responsive site completely from scratch. This included working closely with a designer to create a good UX Design.
+Worked alongside other developers to fix ruby bugs on a day to day basis. This included issues with player selection, injury and performance.
+Invited to attend the Web Summit in Dublin to help promote and talk to potential Investors about our platform
+
+Extra information:
+This was my first freelance job and was given autonomy to solve problems given most members of the team worked remotely - even abroad.
+It was my first opportunity to be involved with a major start up.
+
+
+full stack Developer, fitzdares-London: april - june 2014
+<a href="www.fitzdares.com">fitzdares.com</a>
+Fitzdares is a bespoke gambling business based in Notting Hill, London.
+Responsibilities:
+Fixed bugs on the gambling system on a day to day basis as well as creating new betting options, for example Asian handicaps .
+Built bespoke platforms for upcoming events such as the British Open and World Cup.
+ Worked closely with Designers to integrate the designs created.
+Created both front and back end including responsive design.
+A lot of work would be in pair programming situations which allowed us to approach problems from a variety of directions and helped to speed up the learning process.Other Project
+  www.royalmat.co.uk
+Designed and built a UK website for the Canadian company Royal Mat
+
 
 
 Meet me
