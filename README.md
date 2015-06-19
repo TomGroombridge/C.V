@@ -5,14 +5,6 @@ I am a Junior Developer in London
 
 Read my code on  <a href="https://github.com/TomGroombridge"> Github. </a>
 
-Code examples
--------------
-
-| <a href="https://github.com/TomGroombridge/book_project">Dog Eared Pages</a> | <a href="https://github.com/TomGroombridge/Sudoku-Web-Version">Sudoku</a> | <a href="https://github.com/TomGroombridge/christagram"> Christagram </a> | <a href="https://github.com/TomGroombridge/planes_at_a_airport">Airport</a> |
-|:--------------- |:-------- |:--------- | :--------- |
-|Rails App created in 10 days with <a href="https://github.com/larahy">@larahy</a>, <a href="https://github.com/chrishill627">@chrishill627</a> and <a href="https://github.com/traviago">@traviagio</a> which allows you to choose your top 3 books and tweet them out. <a href="http://dogearedpages.me"> click here</a>  to view the website | Sinatra web app to play Sudoku puzzles with a recursive algorithm to generate and solve puzzles. | Ruby on Rails Application that is a home made version of Instagram, where a user can add, delete, comment and like posts of other users. <a href="http://christagram.herokuapp.com/welcome/index"> click here</a> to view the online version, built with <a href="https://github.com/chrishill627">@chrishill627</a> | 100% TDD, object oriented model of airports and planes in Ruby, planes would land and take off depending on certain factors.|
-
-----------
 
 ### Skills
 
@@ -37,18 +29,17 @@ Code examples
   - Integration of APIs including Twilio, Stripe and Amazon
   - Mailgun API with RestClient
   - GitHub Flavoured Markdown
-  - Deployment to Heroku
+  - Heroku
 
 
 
-  ### Makers Academy
+<h2>Makers Academy</h2>
 **Web Development Bootcamp: November-February 2013**
 
   - Highly selective 12 week full-time course
   - Ruby, object oriented programming and software design
   - Full stack web development
   - Pair programming and teamwork
-  - Final project: <a href="http://dogearedpages.me"> Dog Eared Pages </a> - a Rails 4 app which allows you to choose your top 3 books and tweet them out to your followes. Created in 10 days with <a href="https://github.com/larahy">@larahy</a>, <a href="https://github.com/chrishill627">@chrishill627</a> and <a href="https://github.com/traviago">@traviagio</a>.
 
 
 Experience
@@ -97,7 +88,7 @@ Responsibilities:</p>
 <p>A lot of work would be in pair programming situations which allowed us to approach problems from a variety of directions and helped to speed up the learning process</p>
 
 <br>
-<h1>Other Project</h1>
+<h2>Other Project</h2>
 <a href="www.royalmat.co.uk">royalmat.com</a>
 <p>Designed and built a UK website for the Canadian company Royal Mat</p>
 
@@ -107,6 +98,6 @@ Meet me
 -------
 I'm on <a href="http://www.linkedin.com/profile/view?id=304908361&trk=nav_responsive_tab_profile_pic">LinkedIn</a>,  <a href="https://twitter.com/TomGroombridge">Twitter </a> and  <a href="https://github.com/TomGroombridge">Github </a>.
 
-07540 726 507,
+07540 726507,
 groombridegtom@gmail.com
 
