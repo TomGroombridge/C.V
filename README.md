@@ -76,7 +76,7 @@ Responsibilities:
   2. Worked alongside other developers to fix ruby bugs on a day to day basis. This included issues with player selection, injury and performance.
   3. Invited to attend the Web Summit in Dublin to help promote and talk to potential Investors about our platform
 
-<h3>Extra information:</h3>
+<h4>Extra information:</h4>
 <p>This was my first freelance job and was given autonomy to solve problems given most members of the team worked remotely - even abroad.</p>
 <p>It was my first opportunity to be involved with a major start up.</p>
 
