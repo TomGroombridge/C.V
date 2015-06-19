@@ -1,4 +1,4 @@
-<h1> Tom Groombridge </h1>
+<h1> Thomas Groombridge </h1>
 ----------
 
 I am a Junior Developer in London
@@ -26,7 +26,7 @@ Code examples
   - Sinatra and DataMapper
   - Unit testing with RSpec
   - Integration testing with Capybara
-  - FactoryGirl fixtures 
+  - FactoryGirl fixtures
   - Version control with git and GitHub
   - JavaScript, jQuery and CoffeeScript
   - HTML5
