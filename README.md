@@ -5,9 +5,13 @@ I am a Junior Developer in London
 
 Read my code on  <a href="https://github.com/TomGroombridge"> Github. </a>
 
+<h2>PROFILE</h2>
+<p>I am a very determined outward going individual, who is very prepared to give things a go. </p>
+<p>I made the decision not to go to University preferring to pursue a career in the fast moving technology industry.</p>
+<p>Sport is my relaxation whether participating or just spectating.  I particularly enjoy playing hockey at the highest level possible.</p>
 
-### Skills
 
+<h2>Skills</h2>
   - Test­ driven development
   - Pair programming
   - Ruby ~
@@ -42,7 +46,7 @@ Read my code on  <a href="https://github.com/TomGroombridge"> Github. </a>
   - Pair programming and teamwork
 
 
-Experience
+<h2>Experience</h2>
 ----------
 
 <p>Since ‘graduating’ from Makers Academy in February 2014 I have sought job opportunities to utilise and improve my coding skills. This is outlined below:</p>
@@ -94,7 +98,7 @@ Responsibilities:</p>
 
 
 
-Meet me
+<h2>Meet me</h2>
 -------
 I'm on <a href="http://www.linkedin.com/profile/view?id=304908361&trk=nav_responsive_tab_profile_pic">LinkedIn</a>,  <a href="https://twitter.com/TomGroombridge">Twitter </a> and  <a href="https://github.com/TomGroombridge">Github </a>.
 
