@@ -57,7 +57,7 @@ Experience
 <p>Since ‘graduating’ from Makers Academy in February 2014 I have sought job opportunities to utilise and improve my coding skills. This is outlined below:</p>
 
 
-<h2>Founder & Developer, courseiam - LONDON: December - to date</h2>
+<h2>Founder & Developer, Courseiam - LONDON: December - to date</h2>
   <a href="www.courseiam.com">courseiam.com</a>
 <p>Courseiam is an online administration, booking and marketing platform for people who run face to face courses. For example dress making, upholstery and cycling proficiency.</p>
 <p>Decided to launch the programme having worked for a company operating a similar product in Melbourne, Australia.</p>
@@ -71,22 +71,22 @@ Responsibilities:
   5. Pitching the product to potential clients.
 <br>
 
-<h2>full stack developer, playon - london/dublin: june- december 2014</h2>
+<h2>Full Stack Developer, Playon - London/Dublin: June- December 2014</h2>
 <a href="www.playon.co">playon.co</a>
-Playon is a online daily fantasy sports business which currently combines fantasy football and cricket with online gambling.
-Worked as part of a team to help develop and expand the functionality and design of the site working mainly in frontend with html css and javascript as well as fixing bugs in ruby.
+<p>Playon is a online daily fantasy sports business which currently combines fantasy football and cricket with online gambling.</p>
+<p>Worked as part of a team to help develop and expand the functionality and design of the site working mainly in frontend with html css and javascript as well as fixing bugs in ruby.</p>
 
 Responsibilities:
- Built the responsive site completely from scratch. This included working closely with a designer to create a good UX Design.
-Worked alongside other developers to fix ruby bugs on a day to day basis. This included issues with player selection, injury and performance.
-Invited to attend the Web Summit in Dublin to help promote and talk to potential Investors about our platform
+  1. Built the responsive site completely from scratch. This included working closely with a designer to create a good UX Design.
+  2. Worked alongside other developers to fix ruby bugs on a day to day basis. This included issues with player selection, injury and performance.
+  3. Invited to attend the Web Summit in Dublin to help promote and talk to potential Investors about our platform
 
-Extra information:
-This was my first freelance job and was given autonomy to solve problems given most members of the team worked remotely - even abroad.
-It was my first opportunity to be involved with a major start up.
+<h3>Extra information:</h3>
+<p>This was my first freelance job and was given autonomy to solve problems given most members of the team worked remotely - even abroad.</p>
+<p>It was my first opportunity to be involved with a major start up.</p>
 
 <br>
-<h2>full stack Developer, fitzdares-London: april - june 2014</h2>
+<h2>Full Stack Developer, Fitzdares-London: April - June 2014</h2>
 <a href="www.fitzdares.com">fitzdares.com</a>
 <p>Fitzdares is a bespoke gambling business based in Notting Hill, London.
 Responsibilities:</p>
