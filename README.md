@@ -1,4 +1,4 @@
-<h1> Thomas Groombridge </h1>
+<h1> Tom Groombridge </h1>
 ----------
 
 I am a Junior Developer in London
@@ -49,7 +49,7 @@ Experience
 
 
 <h2>Founder & Developer, Courseiam - LONDON: December - to date</h2>
-  <a href="www.courseiam.com">courseiam.com</a>
+  <a href="http://www.courseiam.com/">courseiam.com</a>
 <p>Courseiam is an online administration, booking and marketing platform for people who run face to face courses. For example dress making, upholstery and cycling proficiency.</p>
 <p>Decided to launch the programme having worked for a company operating a similar product in Melbourne, Australia.</p>
 
@@ -63,7 +63,7 @@ Responsibilities:
 <br>
 
 <h2>Full Stack Developer, Playon - London/Dublin: June- December 2014</h2>
-<a href="www.playon.co">playon.co</a>
+<a href="https://playon.co/">playon.co</a>
 <p>Playon is a online daily fantasy sports business which currently combines fantasy football and cricket with online gambling.</p>
 <p>Worked as part of a team to help develop and expand the functionality and design of the site working mainly in frontend with html css and javascript as well as fixing bugs in ruby.</p>
 
@@ -78,7 +78,7 @@ Responsibilities:
 
 <br>
 <h2>Full Stack Developer, Fitzdares-London: April - June 2014</h2>
-<a href="www.fitzdares.com">fitzdares.com</a>
+<a href="http://fitzdares.com/">fitzdares.com</a>
 <p>Fitzdares is a bespoke gambling business based in Notting Hill, London.
 Responsibilities:</p>
 <p>Fixed bugs on the gambling system on a day to day basis as well as creating new betting options, for example Asian handicaps .</p>
@@ -89,7 +89,7 @@ Responsibilities:</p>
 
 <br>
 <h2>Other Project</h2>
-<a href="www.royalmat.co.uk">royalmat.com</a>
+<a href="http://www.royalmat.co.uk/">royalmat.com</a>
 <p>Designed and built a UK website for the Canadian company Royal Mat</p>
 
 
